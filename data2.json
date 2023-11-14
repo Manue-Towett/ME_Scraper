@@ -1,0 +1,1724 @@
+{
+    "results": [
+        {
+            "mintAddress": "2cR5Kvhfs1m1J761ddi4ZNJ2sqKjuVXjR4VEavPzkbvk",
+            "supply": 1,
+            "title": "The_Hawaiian_Breeze_Series_1_Edition_88_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "BQKTboRfXp4K3BbHseBvQCeW4LRV3nupxmvbHfmuLWJq",
+            "tokenAddress": "BQKTboRfXp4K3BbHseBvQCeW4LRV3nupxmvbHfmuLWJq",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Hawaiian_Breeze_Series_1_Edition_88_of_500.jpg",
+            "attributes": [],
+            "content": "Dracaena_Monstera",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2ctkyEbBtxfReRcDY9E9sAUuUonBKrb4XfynYEMdaVdw",
+            "supply": 1,
+            "title": "The_Paradiso_Bouquet_Happy_Fathers_Day_Series_1_Edition_17_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "5C1TyqURogiGUs3fJnwGs7pMtFqQR8D2E6pSvZGD5pKQ",
+            "tokenAddress": "5C1TyqURogiGUs3fJnwGs7pMtFqQR8D2E6pSvZGD5pKQ",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_Paradiso_Bouquet_Happy_Fathers_Day_Series_1_Edition_17_of_500.png",
+            "attributes": [],
+            "content": "Happy_Fathers_Day_Roses_Hydrangea_Scylla",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2CVi4zTvfoNFibhhHzrWBoRRAJ3VQxkMuqGF3yW6jXSE",
+            "supply": 1,
+            "title": "The_Astronomical_Twelve_Dozen_Roses_Bouquet_Happy_Birthday_Series_1_Edition_61_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "A21ZXL3ndbX1SvYg2qirfNi1Rtw2yJgr2FSSdtVJ7UXU",
+            "tokenAddress": "A21ZXL3ndbX1SvYg2qirfNi1Rtw2yJgr2FSSdtVJ7UXU",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_Astronomical_Twelve_Dozen_Roses_Bouquet_Happy_Birthday_Series_1_Edition_61_of_500.png",
+            "attributes": [],
+            "content": "Happy_Birthday_Roses",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2D6FKGxSwodDsW6dQE6cWE6cXcvjY1ZT8PVoqPkj6Ymm",
+            "supply": 1,
+            "title": "The_Moonlight_Sonata_Series_1_Edition_25_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "CsyPHMkbLKrUtYWjBi3CZBXdP56bGpWkwwfLjQ1D2xe1",
+            "tokenAddress": "CsyPHMkbLKrUtYWjBi3CZBXdP56bGpWkwwfLjQ1D2xe1",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Moonlight_Sonata_Series_1_Edition_25_of_500.jpg",
+            "attributes": [],
+            "content": "Roses_Chrysanthemum_Daisy_Dahlia_Scylla",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2daNJELvC2ZjiyghvQ5wKq1Rpbu7HTPCNW8HVRCcRg2P",
+            "supply": 1,
+            "title": "The_Claires_des_Lunes_Series_1_Edition_72_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "FkqHG7FxerqRx5m4Xo6tbprP2HU3j5p8CEwinGGK3sRW",
+            "tokenAddress": "FkqHG7FxerqRx5m4Xo6tbprP2HU3j5p8CEwinGGK3sRW",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Claires_des_Lunes_Series_1_Edition_72_of_500.jpg",
+            "attributes": [],
+            "content": "Roses_Lily_Scylla",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2dbzvREsXVzygnJfU7fJufECuY5fQJ2t2nRSHwfbPgYq",
+            "supply": 1,
+            "title": "The_Astronomical_Twelve_Dozen_Roses_Bouquet_Happy_Anniversary_Series_1_Edition_11_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "5myjCBtcabZzWRR7M6xExmqve3BJXJzmffAjq9RpQbbj",
+            "tokenAddress": "5myjCBtcabZzWRR7M6xExmqve3BJXJzmffAjq9RpQbbj",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_Astronomical_Twelve_Dozen_Roses_Bouquet_Happy_Anniversary_Series_1_Edition_11_of_500.png",
+            "attributes": [],
+            "content": "Happy_Anniversary_Roses",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2DD195L1vfpCVoHmUah6Wmn426BHQEeHsr1HHyKYQMea",
+            "supply": 1,
+            "title": "The_Claires_des_Lunes_Happy_Anniversary_Series_1_Edition_65_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "7n56iyLpoa7uRi4NVkYNkNmdHoqj5Goi5CmTPGjGJRXW",
+            "tokenAddress": "7n56iyLpoa7uRi4NVkYNkNmdHoqj5Goi5CmTPGjGJRXW",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_Claires_des_Lunes_Happy_Anniversary_Series_1_Edition_65_of_500.png",
+            "attributes": [],
+            "content": "Happy_Anniversary_Roses_Lily_Scylla",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2ddo2jLUdsAYBKFGnLqXTmftVbvNbesv76cxTqFBvigb",
+            "supply": 1,
+            "title": "The_Astronomical_Twelve_Dozen_Roses_Bouquet_Happy_Anniversary_Series_1_Edition_14_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "DUa4ocuRH9of4W3CxSFXJ8qKGEZce39DzKa98vgvm3j7",
+            "tokenAddress": "DUa4ocuRH9of4W3CxSFXJ8qKGEZce39DzKa98vgvm3j7",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_Astronomical_Twelve_Dozen_Roses_Bouquet_Happy_Anniversary_Series_1_Edition_14_of_500.png",
+            "attributes": [],
+            "content": "Happy_Anniversary_Roses",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2dFXmPMGAiQvXWF61mH6rq2RswHAxo3aCUCib4PTBPRH",
+            "supply": 1,
+            "title": "The_Rio_Series_1_Edition_35_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "E9iZ9vLjoW9M9nqpi17X5U3b5rzhu4EufoRZKTqeDYzi",
+            "tokenAddress": "E9iZ9vLjoW9M9nqpi17X5U3b5rzhu4EufoRZKTqeDYzi",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Rio_Series_1_Edition_35_of_500.jpg",
+            "attributes": [],
+            "content": "Roses_Dahlia_Chrysanthemum_Daisy",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2DHtKAiz1aw8M7Mw5mn5ktppTM1GuSQ6sacVNWQkFKwA",
+            "supply": 1,
+            "title": "Love_Is_In_The_Air_Happy_Birthday_Series_1_Edition_99_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "5M33Z3Sy634sjWVsQZZj31iZ5Ln5bzEbRVhyXYGudVEc",
+            "tokenAddress": "5M33Z3Sy634sjWVsQZZj31iZ5Ln5bzEbRVhyXYGudVEc",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/Love_Is_In_The_Air_Happy_Birthday_Series_1_Edition_99_of_500.png",
+            "attributes": [],
+            "content": "Happy_Birthday_Roses_Lily_Actaea-elata",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2DHxH8dPf9sZf5xB8gJCYVXcGYkMQWJ7R9iiqBafF87i",
+            "supply": 1,
+            "title": "The_Color_of_Love_Series_1_Edition_50_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "J29PrcL1PWt4gscbaQxcXYoDCqmQL1FJb4HG6cSBPXpb",
+            "tokenAddress": "J29PrcL1PWt4gscbaQxcXYoDCqmQL1FJb4HG6cSBPXpb",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_50_of_500.jpg",
+            "attributes": [],
+            "content": "Roses_Azalea_Dahlia_Anthurium-Andreanum_Chrysanthemum",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2DmmXxTBMaXqv9CLfqa24Mhe9166GZVjKgZPp6xv72ng",
+            "supply": 1,
+            "title": "Love_Is_In_The_Air_Happy_Birthday_Series_1_Edition_42_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "HDB8cdqVGgKgeitG7xMeTbD7HkRt83f6Xqa9kF7KjEDH",
+            "tokenAddress": "HDB8cdqVGgKgeitG7xMeTbD7HkRt83f6Xqa9kF7KjEDH",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/Love_Is_In_The_Air_Happy_Birthday_Series_1_Edition_42_of_500.png",
+            "attributes": [],
+            "content": "Happy_Birthday_Roses_Lily_Actaea-elata",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2DPFeQBHQCsrvbdu29Rn3bzv5gMaqCwdWwP9uqH4UFqy",
+            "supply": 1,
+            "title": "The_Enchanted_Garden_Happy_Mothers_Day_Series_1_Edition_61_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "D5vDDejof2YezcitjJc3KGmg8sBnSLqyXd91VQiySLXE",
+            "tokenAddress": "D5vDDejof2YezcitjJc3KGmg8sBnSLqyXd91VQiySLXE",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_Enchanted_Garden_Happy_Mothers_Day_Series_1_Edition_61_of_500.png",
+            "attributes": [],
+            "content": "Happy_Mothers_Day_Roses_Hydrangea_Dahlia",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2dzaJ1w9Vt5mPZDeGpuTWv9MoqsFxcptsT9NrVyGKytz",
+            "supply": 1,
+            "title": "The_Cherry_Blossom_Dreams_Congratulations_Graduate_Series_1_Edition_20_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "4UnYSME3A7vKd8t2zjjZYQ4xibTmYpbdKLcTSB9Pvpqb",
+            "tokenAddress": "4UnYSME3A7vKd8t2zjjZYQ4xibTmYpbdKLcTSB9Pvpqb",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_Cherry_Blossom_Dreams_Congratulations_Graduate_Series_1_Edition_20_of_500.png",
+            "attributes": [],
+            "content": "Congratulations_Graduate_Roses_Dahlia_Daisy_Azalea",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2dZgCwgaDeRfecY4c1bWoCRvzkyaNL7NJQsxEqJUijqQ",
+            "supply": 1,
+            "title": "The_Summer_Serenade_Congratulations_Series_1_Edition_73_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "63CM3Rz47DiNpmy3nx6NzKVuNn3gUW8cjSPGQRjL6mSd",
+            "tokenAddress": "63CM3Rz47DiNpmy3nx6NzKVuNn3gUW8cjSPGQRjL6mSd",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_Summer_Serenade_Congratulations_Series_1_Edition_73_of_500.png",
+            "attributes": [],
+            "content": "Congratulations_Roses_Dahlia",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2dzur44NKggkWZxKzjkCGUhpdNjAGk91cWsTSwcCpe9y",
+            "supply": 1,
+            "title": "The_Swedish_Delight_Happy_Fathers_Day_Series_1_Edition_95_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "HZ23dkCrAH1Xfb3DLPM41xLN134Lq46UuL6k6E28eqiW",
+            "tokenAddress": "HZ23dkCrAH1Xfb3DLPM41xLN134Lq46UuL6k6E28eqiW",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_Swedish_Delight_Happy_Fathers_Day_Series_1_Edition_95_of_500.png",
+            "attributes": [],
+            "content": "Happy_Fathers_Day_Roses_Lily_Chamomile_Scylla",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2dZyvAvYJxpq4nAebVtpcdzuZmkRnmmvxHVN4pdrQJQA",
+            "supply": 1,
+            "title": "The_Euphoria_of_Pink_Carnations_Happy_Mothers_Day_Series_1_Edition_50_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "9tx7AWazv7KmH1pHbFjqhnwcz5XN2cXjBN6fq1jBNwun",
+            "tokenAddress": "9tx7AWazv7KmH1pHbFjqhnwcz5XN2cXjBN6fq1jBNwun",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_Euphoria_of_Pink_Carnations_Happy_Mothers_Day_Series_1_Edition_50_of_500.png",
+            "attributes": [],
+            "content": "Happy_Mothers_Day_Roses_Dahlia_Anthurium-Andreanum",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2e3qM2dx39F3NaJu4nUeHEvtMEgYxByyDPrDLTb2RPy1",
+            "supply": 1,
+            "title": "The_You_Are_Always_My_Valentine_Good_Luck_Series_1_Edition_57_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "AqLRwJHJEQFqWcNGkbF8eSjXnabfveffwr8UdA4tCACt",
+            "tokenAddress": "AqLRwJHJEQFqWcNGkbF8eSjXnabfveffwr8UdA4tCACt",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_You_Are_Always_My_Valentine_Good_Luck_Series_1_Edition_57_of_500.png",
+            "attributes": [],
+            "content": "Good_Luck_Roses_Daisy",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2E7RwDWtNerhXREnpaaLFdLpipzG99YEHnJ8Lo3npeGX",
+            "supply": 1,
+            "title": "Love_Is_In_The_Air_Happy_Birthday_Series_1_Edition_28_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "CqKV4JktnBp7ur7zkZkSobrLmK4eRErpRpKzjFtLHZDX",
+            "tokenAddress": "CqKV4JktnBp7ur7zkZkSobrLmK4eRErpRpKzjFtLHZDX",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/Love_Is_In_The_Air_Happy_Birthday_Series_1_Edition_28_of_500.png",
+            "attributes": [],
+            "content": "Happy_Birthday_Roses_Lily_Actaea-elata",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2Eafebew8yEPYbY8SEoKipmVHCGtKuPVBfKEhtWACiL6",
+            "supply": 1,
+            "title": "The_Cherry_Blossom_Dreams_Congratulations_Series_1_Edition_77_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "3tnmx75auQrphNaMXJ6LKz9guBgL55pDV1mHrWLwtmdX",
+            "tokenAddress": "3tnmx75auQrphNaMXJ6LKz9guBgL55pDV1mHrWLwtmdX",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_Cherry_Blossom_Dreams_Congratulations_Series_1_Edition_77_of_500.png",
+            "attributes": [],
+            "content": "Congratulations_Roses_Dahlia_Daisy_Azalea",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2EewnphqMg4q44SM3wTx1fWsnPQV8SMPP5o3APnNryq1",
+            "supply": 1,
+            "title": "The_Best_Friends_Forever_Series_1_Edition_48_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "6ha3bwyp1E4Fpmh2PfBz3YGK1yBMHDsVnLY1Gvmm5hMK",
+            "tokenAddress": "6ha3bwyp1E4Fpmh2PfBz3YGK1yBMHDsVnLY1Gvmm5hMK",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Best_Friends_Forever_Series_1_Edition_48_of_500.jpg",
+            "attributes": [],
+            "content": "Roses_Actaea-elata_Hydrangea",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2efxHPBz4mPb5dgZwf5EqFW4Fx3nygkbf6bovfmjX2uy",
+            "supply": 1,
+            "title": "The_Vincent_Van_Gogh_Get_Well_Soon_Series_1_Edition_28_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "CW5ZGiK9v6rdMfSwmVw9u57uD7FZ7R9k9fmvsMYdkuon",
+            "tokenAddress": "CW5ZGiK9v6rdMfSwmVw9u57uD7FZ7R9k9fmvsMYdkuon",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_Vincent_Van_Gogh_Get_Well_Soon_Series_1_Edition_28_of_500.png",
+            "attributes": [],
+            "content": "Get_Well_Soon_Sunflower_Roses_Hydrangea",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2eg8uaCyQmucVtaoP374NqXkLT9abBf5SoEaKmK9z88W",
+            "supply": 1,
+            "title": "Spring_Sonata_Roses_Happy_Birthday_Series_1_Edition_35_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "3Amj8wEv57aTioMo1EDSh7EFALc2MsBaLkLnnsqNsWmB",
+            "tokenAddress": "3Amj8wEv57aTioMo1EDSh7EFALc2MsBaLkLnnsqNsWmB",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/Spring_Sonata_Roses_Happy_Birthday_Series_1_Edition_35_of_500.png",
+            "attributes": [],
+            "content": "Happy_Birthday_Roses",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2EjdsnffGTvarTvHcwnB99wbCEPh1M3vc1sTyvGbR99P",
+            "supply": 1,
+            "title": "The_Astronomical_Twelve_Dozen_Roses_Bouquet_Good_Luck_Series_1_Edition_90_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "6NNELMEpHHcKA9xuZgFSUMJP4Y723kXPfcmaxXogVGEG",
+            "tokenAddress": "6NNELMEpHHcKA9xuZgFSUMJP4Y723kXPfcmaxXogVGEG",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_Astronomical_Twelve_Dozen_Roses_Bouquet_Good_Luck_Series_1_Edition_90_of_500.png",
+            "attributes": [],
+            "content": "Good_Luck_Roses",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2EtaqJsVWd1enHWHxSZonfdyNcYhDhaFsMtzgCP2rJ2b",
+            "supply": 1,
+            "title": "The_Starlight_Daisies_Series_1_Edition_93_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "8dVARR5pkLVwm3Vb2FYP1gfsGYZ3g7xFxMtMWE3UXCPg",
+            "tokenAddress": "8dVARR5pkLVwm3Vb2FYP1gfsGYZ3g7xFxMtMWE3UXCPg",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Starlight_Daisies_Series_1_Edition_93_of_500.jpg",
+            "attributes": [],
+            "content": "Chamomile",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2Ete9APZK6P3fxMYo4BerLECdKibpdeSLKUeZpdySbyr",
+            "supply": 1,
+            "title": "The_Euphoria_of_Pink_Carnations_Get_Well_Soon_Series_1_Edition_19_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "iabHk724m7gTW1r2Hb7yGKoN8DUTjWBkk4YxtBLk58u",
+            "tokenAddress": "iabHk724m7gTW1r2Hb7yGKoN8DUTjWBkk4YxtBLk58u",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_Euphoria_of_Pink_Carnations_Get_Well_Soon_Series_1_Edition_19_of_500.png",
+            "attributes": [],
+            "content": "Get_Well_Soon_Roses_Dahlia_Anthurium-Andreanum",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2EuZi2SUmGWBJS5ZGPWbcLXX8FSGp5hBe3BeibZRxnQq",
+            "supply": 1,
+            "title": "The_One_True_Love_Series_1_Edition_76_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "BnZ3AnaNKWzCJfVFPhAU1T1BcEL51GGmZu9oJ7WKvAsJ",
+            "tokenAddress": "BnZ3AnaNKWzCJfVFPhAU1T1BcEL51GGmZu9oJ7WKvAsJ",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_One_True_Love_Series_1_Edition_76_of_500.jpg",
+            "attributes": [],
+            "content": "Roses_Gloriosa_Chrysanthemum",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2EVLKT6AHqN6USDDQBf7u4CcgEswBzfrnGYC2r7Q1FSH",
+            "supply": 1,
+            "title": "The_Astronomical_Twelve_Dozen_Roses_Series_1_Edition_84_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "DYMg37fnWEMMTZ1hvZpgcSScQHiNNtLSLPFP68YV4Q7C",
+            "tokenAddress": "DYMg37fnWEMMTZ1hvZpgcSScQHiNNtLSLPFP68YV4Q7C",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Astronomical_Twelve_Dozen_Roses_Series_1_Edition_84_of_500.jpg",
+            "attributes": [],
+            "content": "Roses",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2evMfG2Y7M1GFrAwfCdSpUYwq34G5Gfp6cuCAXCf8cyM",
+            "supply": 1,
+            "title": "The_Splender_of_Versailles_Series_1_Edition_93_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "Bb38bf1toL2TdK54pPQa1GztpesW8Dc3EJCTZYufX5qr",
+            "tokenAddress": "Bb38bf1toL2TdK54pPQa1GztpesW8Dc3EJCTZYufX5qr",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Splender_of_Versailles_Series_1_Edition_93_of_500.jpg",
+            "attributes": [],
+            "content": "Azalea",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2ewt24i4qobbGkvt1SC9Ysu4cKUi3VWMpjqhi1xXLF59",
+            "supply": 1,
+            "title": "The_Euphoria_of_Pink_Carnations_Get_Well_Soon_Series_1_Edition_26_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "HQUWvbsL1Gwdx3su7SLncXPnmUEpxcj7H6K2N5PFMU79",
+            "tokenAddress": "HQUWvbsL1Gwdx3su7SLncXPnmUEpxcj7H6K2N5PFMU79",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_Euphoria_of_Pink_Carnations_Get_Well_Soon_Series_1_Edition_26_of_500.png",
+            "attributes": [],
+            "content": "Get_Well_Soon_Roses_Dahlia_Anthurium-Andreanum",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2EXigpGapzXHkGX1HAP6JYSadsb5FhcguJeUY16DF7gs",
+            "supply": 1,
+            "title": "The_Enchanted_Garden_Happy_Birthday_Series_1_Edition_26_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "211e5bWMrMUvUz9RY6qLKDqXJPb9zwYMCLQ1GchupPbc",
+            "tokenAddress": "211e5bWMrMUvUz9RY6qLKDqXJPb9zwYMCLQ1GchupPbc",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_Enchanted_Garden_Happy_Birthday_Series_1_Edition_26_of_500.png",
+            "attributes": [],
+            "content": "Happy_Birthday_Roses_Hydrangea_Dahlia",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2EXoSQafZVJcLpCHmG4FCf7CAJS9vFHgmHJV5BiBK4qz",
+            "supply": 1,
+            "title": "The_Euphoria_of_Pink_Carnations_Happy_Mothers_Day_Series_1_Edition_22_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "G58ffycC6r8fewySyipXLFAbE5kJFKLRW8i9DsPQ18c1",
+            "tokenAddress": "G58ffycC6r8fewySyipXLFAbE5kJFKLRW8i9DsPQ18c1",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_Euphoria_of_Pink_Carnations_Happy_Mothers_Day_Series_1_Edition_22_of_500.png",
+            "attributes": [],
+            "content": "Happy_Mothers_Day_Roses_Dahlia_Anthurium-Andreanum",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2EY147zBS7bk7uMczDN97rXCwjrHacUkMpXonKRtZ7iL",
+            "supply": 1,
+            "title": "The_Starlight_Daisies_Happy_Fathers_Day_Series_1_Edition_79_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "2yuJqK9mSu7H7mZCPEM8jHMRA9aukQcdu9NW2DewS7br",
+            "tokenAddress": "2yuJqK9mSu7H7mZCPEM8jHMRA9aukQcdu9NW2DewS7br",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_Starlight_Daisies_Happy_Fathers_Day_Series_1_Edition_79_of_500.png",
+            "attributes": [],
+            "content": "Happy_Fathers_Day_Roses",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2EynhbGy5PG5xyWqcceouDX9ThRjnv9244Ug3JCsUZ1C",
+            "supply": 1,
+            "title": "Beethoven's_5th_Series_1_Edition_76_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "DdhFBzdoi46wrpS5HJaX5nevxtQuTgjCAV7k9PujkJko",
+            "tokenAddress": "DdhFBzdoi46wrpS5HJaX5nevxtQuTgjCAV7k9PujkJko",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/Beethoven's_5th_Series_1_Edition_76_of_500.jpg",
+            "attributes": [],
+            "content": "Roses_Fern_Actaea-elata_Bellflower",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2f18Cjv4WzERh5vHyuWg6o5Lc1XvtgRcdoqMcgNy4aek",
+            "supply": 1,
+            "title": "The_Claires_des_Lunes_Series_1_Edition_31_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "4yK8gBtMftaNUnsp6t8bHYULy2xHW2PvotGkZozfF4ue",
+            "tokenAddress": "4yK8gBtMftaNUnsp6t8bHYULy2xHW2PvotGkZozfF4ue",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Claires_des_Lunes_Series_1_Edition_31_of_500.jpg",
+            "attributes": [],
+            "content": "Roses_Lily_Scylla",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2f8G3334fHXhsmFxgvFdPh4XzVTZBuCRbfydU8u2Z52V",
+            "supply": 1,
+            "title": "The_Euphoria_of_Pink_Carnations_Get_Well_Soon_Series_1_Edition_92_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "FRQajpeAeNjrvriCG4SWvFsLK75uE2GLMqRSe6mpLDwA",
+            "tokenAddress": "FRQajpeAeNjrvriCG4SWvFsLK75uE2GLMqRSe6mpLDwA",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_Euphoria_of_Pink_Carnations_Get_Well_Soon_Series_1_Edition_92_of_500.png",
+            "attributes": [],
+            "content": "Get_Well_Soon_Roses_Dahlia_Anthurium-Andreanum",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2fbGmZYSZvGs8E5qJ8M8PUNZq1UHNiCz2kuWWQ78DRvb",
+            "supply": 1,
+            "title": "The_King_Tut_Series_1_Edition_90_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "GkqSttWeEvVDf219krSisU3UuyYN21yiSBLYEo2eX4od",
+            "tokenAddress": "GkqSttWeEvVDf219krSisU3UuyYN21yiSBLYEo2eX4od",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_King_Tut_Series_1_Edition_90_of_500.jpg",
+            "attributes": [],
+            "content": "Roses_Chrysanthemum_Daisy_Chamomile",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2FefzdQqrcofWczK9zFNKnwcAEFVjuHfCxkup1ZEtjqL",
+            "supply": 1,
+            "title": "The_Moonlight_Sonata_Congratulations_Graduate_Series_1_Edition_100_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "AGH2To4JWXun3EmZGS4PX7Q2AeanM7xUMUPDpsZbEhax",
+            "tokenAddress": "AGH2To4JWXun3EmZGS4PX7Q2AeanM7xUMUPDpsZbEhax",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_Moonlight_Sonata_Congratulations_Graduate_Series_1_Edition_100_of_500.png",
+            "attributes": [],
+            "content": "Congratulations_Graduate_Roses_Chrysanthemum_Daisy_Dahlia_Scylla",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2fFc2xWSZAYus36QbwtbUV6drQUXPakWFhM9cnvkZhui",
+            "supply": 1,
+            "title": "The_Enchanted_Garden_Happy_Mothers_Day_Series_1_Edition_56_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "GptyNsmC1Yea4WD6cxgvN9AmzJLN5pAy9jXDBjQeaBtW",
+            "tokenAddress": "GptyNsmC1Yea4WD6cxgvN9AmzJLN5pAy9jXDBjQeaBtW",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_Enchanted_Garden_Happy_Mothers_Day_Series_1_Edition_56_of_500.png",
+            "attributes": [],
+            "content": "Happy_Mothers_Day_Roses_Hydrangea_Dahlia",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        },
+        {
+            "mintAddress": "2ffgCv8kJvvxN74VRab3s4QpXgdAFr6Kvy63tf4g68Qb",
+            "supply": 1,
+            "title": "The_Enchanted_Garden_Happy_Mothers_Day_Series_1_Edition_76_of_500",
+            "primarySaleHappened": false,
+            "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "onChainCollection": {
+                "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+                "verified": 1,
+                "data": {
+                    "name": "theNFTflorist Powered by ArtRKL",
+                    "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+                    "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+                }
+            },
+            "sellerFeeBasisPoints": 0,
+            "creators": [
+                {
+                    "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+                    "verified": 1,
+                    "share": 100
+                }
+            ],
+            "price": 0,
+            "solPrice": {
+                "rawAmount": "0",
+                "address": "So11111111111111111111111111111111111111112",
+                "decimals": 9
+            },
+            "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "id": "BPgH78YNHzJK7E6iGfCqxqRcVUr5JgNzF5CKb2uaPSu",
+            "tokenAddress": "BPgH78YNHzJK7E6iGfCqxqRcVUr5JgNzF5CKb2uaPSu",
+            "tokenDelegateValid": false,
+            "isFrozen": false,
+            "tokenStandard": 1,
+            "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_Enchanted_Garden_Happy_Mothers_Day_Series_1_Edition_76_of_500.png",
+            "attributes": [],
+            "content": "Happy_Mothers_Day_Roses_Hydrangea_Dahlia",
+            "isTradeable": true,
+            "listingUpdatedAt": {},
+            "lastSalePrice": 21981200,
+            "lastSalePriceWithFees": 21981200
+        }
+    ]
+}
