@@ -1,0 +1,43 @@
+{
+    "mintAddress": "124UYUkQvMiVRYh8tNrqodSK9HAx784YkpPZdrcm6eZf",
+    "supply": 1,
+    "title": "The_Swedish_Delight_Happy_Fathers_Day_Series_1_Edition_84_of_500",
+    "primarySaleHappened": false,
+    "updateAuthority": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+    "onChainCollection": {
+        "key": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
+        "verified": 1,
+        "data": {
+            "name": "theNFTflorist Powered by ArtRKL",
+            "image": "https://ipfs.io/ipfs/bafybeiauprq6h5qrzklfsqlg27jjbjqrc2j2drixwmt6a6tcigswjm452q/The_Color_of_Love_Series_1_Edition_30_of_500.jpg",
+            "description": "Welcome to the mesmerizing collections of theNFTflorist, where exquisite blooms and artistic brilliance collide! Immerse yourself in the captivating ArtRKL limited edition NFT collections, meticulously crafted by talented digital artists. Each unique floral NFT showcases the perfect fusion of nature's beauty and cutting-edge creativity, offering a truly enchanting experience for collectors and art enthusiasts alike. Join us on this extraordinary journey and let the petals of imagination blossom before your eyes."
+        }
+    },
+    "sellerFeeBasisPoints": 0,
+    "creators": [
+        {
+            "address": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+            "verified": 1,
+            "share": 100
+        }
+    ],
+    "price": 0,
+    "solPrice": {
+        "rawAmount": "0",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+    },
+    "owner": "2itM8TSkpfGQbXKR6U6xC2nDjigjcSsaLgwsM8bYc8VW",
+    "id": "2FDuDQsau1tXRiwqqG292AvBg7LsLDSSgfszjb2PfxJX",
+    "tokenAddress": "2FDuDQsau1tXRiwqqG292AvBg7LsLDSSgfszjb2PfxJX",
+    "tokenDelegateValid": false,
+    "isFrozen": false,
+    "tokenStandard": 1,
+    "img": "https://ipfs.io/ipfs/bafybeiaulsmiymmujndoh3i3sd22fczoxql47q42fp62vwlozmdyzojn7m/The_Swedish_Delight_Happy_Fathers_Day_Series_1_Edition_84_of_500.png",
+    "attributes": [],
+    "content": "Happy_Fathers_Day_Roses_Lily_Chamomile_Scylla",
+    "isTradeable": true,
+    "listingUpdatedAt": {},
+    "lastSalePrice": 21981200,
+    "lastSalePriceWithFees": 21981200
+}

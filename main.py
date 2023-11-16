@@ -1,10 +1,14 @@
-
+import json
 
 import requests
 import pandas as pd
-from bs4 import BeautifulSoup
+from selenium import webdriver
 
-PAYLOAD = {
+from utils import Logger
+
+OUTPUT_PATH = "./data/"
+
+PARAMS = {
     "collectionSymbol": "",
     "onChainCollectionAddress": "8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16",
     "direction": 2,
@@ -18,58 +22,141 @@ PAYLOAD = {
 HEADERS = {
     "Accept": "application/json, text/plain, */*",
     "Accept-Language": "en-US,en;q=0.9",
-    # "Accept-Encoding": "gzip, deflate, br",
-    "Cache-Control": "no-cache",
-    "Denorm-Nft-Shadow-Mode": "V2_ONLY",
-    "Dnt": "1",
-    "Origin": "https://magiceden.io",
-    "Pragma": "no-cache",
-    "Referer": "https://magiceden.io/",
-    "Sec-Ch-Ua": '"Google Chrome";v="119", "Chromium";v="119", "Not?A_Brand";v="24"',
-    "Sec-Ch-Ua-Mobile": "?0",
-    "Sec-Ch-Ua-Platform": '"Linux"',
-    "Sec-Fetch-Dest": "empty",
-    "Sec-Fetch-Mode": "cors",
-    "Sec-Fetch-Site": "same-site",
+    "Cache-Control": "max-age=0",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+    "Upgrade-Insecure-Requests": "1",
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
 }
 
 URL = "https://api-mainnet.magiceden.io/idxv2/getAllNftsByCollectionSymbol"
 
-session = requests.Session()
+class MagicEdenScraper:
+    """Scrapes nfts from https://magiceden.io/marketplace/8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16"""
+    def __init__(self) -> None:
+        self.logger = Logger(__class__.__name__)
+        self.logger.info("{:*^50}".format("MagicEdenScraper Started"))
 
-res = session.get("https://magiceden.io/marketplace/8baMUdLZ5bsoNvpALp9NkWFW5or6RJQJTdAKWScbwW16", headers=HEADERS)
+        self.results = []
+    
+    @staticmethod
+    def __start_chrome() -> webdriver.Chrome:
+        """Starts a new chrome browser instance"""
+        while True:
+            try:
+                options = webdriver.ChromeOptions()
 
-print(res.status_code)
+                options.add_argument("--disable-infobars")
 
-url = "https://magiceden.io/locales/en/translation.json"
+                options.add_argument("--no-sandbox")
 
-response = session.get(url, headers=HEADERS)
+                options.add_argument("--headless=new")
 
-print(response.status_code)
+                options.add_argument("--start-maximized")
 
-import json
+                options.add_argument("--ignore-gpu-blocklist")
 
-with open("sample.json", "w", encoding="utf-8") as f:
-    json.dump(response.json(), f, indent=4)
+                options.add_argument(f"user-agent={HEADERS['User-Agent']}")
 
-response = session.get(URL, headers=HEADERS, params=PAYLOAD)
+                options.add_argument("--incognito")
 
-print(response.status_code)
+                options.add_argument('--disable-blink-features=AutomationControlled')
 
-# print(response.json())
+                options.add_experimental_option('useAutomationExtension', False)
 
-with open("f.html", "w", encoding="utf-8") as f:
-    f.write(response.text)
+                options.add_experimental_option("excludeSwitches", ["enable-automation"])
 
-url = "https://api-mainnet.magiceden.io/v2/unifiedSearch/topCollections?chain=SOL&limit=100&offset=0&edge_cache=true"
+                options.add_argument("--log-level=3")
 
-HEADERS.update({
-    "authority": "api-mainnet.magiceden.io",
-    "scheme": "https",
-    "method": "GET",
-    "path": "/v2/unifiedSearch/topCollections?chain=SOL&limit=100&offset=0&edge_cache=true"
-})
-response = session.get(url, headers=HEADERS)
+                options.add_argument('--disable-extensions')
 
-print(response.status_code)
+                options.set_capability('pageLoadStrategy', 'none')
+
+                return webdriver.Chrome(options=options)
+            
+            except: pass
+    
+    @staticmethod
+    def __create_url_with_params(params: dict[str, str|int]) -> str:
+        """Creates a full url containing the search parameters"""
+        url_params = ""
+
+        for key, value in params.items(): url_params += f"&{key}={value}"
+
+        return f"{URL}?{url_params.lstrip('&')}"
+    
+    def __get_session(self, url: str) -> requests.Session:
+        """Gets a requests session object that has the necessary cookies"""
+        session = requests.Session()
+
+        browser = self.__start_chrome()
+
+        browser.get(url)
+
+        [session.cookies.set(cookie["name"], 
+                             cookie["value"], 
+                             domain=cookie["domain"], 
+                             expires=cookie.get("expiry"),
+                             rest={'HttpOnly': cookie['httpOnly']},
+                             secure=cookie['secure']) for cookie in browser.get_cookies()]
+        
+        browser.quit()
+
+        return session
+    
+    @staticmethod
+    def __get_params(offset: int) -> dict[str, str|int]:
+        return {**PARAMS, "offset": offset}
+    
+    def __extract_nfts(self, response: requests.Response) -> bool:
+        count_before = len(self.results)
+
+        try:
+            self.results.extend(response.json()["results"])
+
+            self.logger.info("NFTs Extracted: {}".format(len(self.results)))
+        except: pass
+
+        return len(self.results) <= count_before
+    
+    def __request(self, session: requests.Session, url: str) -> requests.Response:
+        count = 0
+
+        while True:
+            try:
+                return session.get(url, headers=HEADERS)
+            except:pass
+
+            count += 1
+
+            session, count = self.__get_session(url), 0 if count == 3 else session, count
+    
+    def __save(self) -> None:
+        with open(f"{OUTPUT_PATH}data.json", "w") as file:
+            json.dump(self.results, file, indent=4)
+
+        pd.DataFrame(self.results).to_csv(f"{OUTPUT_PATH}data.csv", index=False)
+
+    def run(self) -> None:
+        url = self.__create_url_with_params(PARAMS)
+
+        session = self.__get_session(url)
+
+        offset, end_reached = 0, False
+
+        while not end_reached:
+            response = self.__request(session, url)
+
+            end_reached = self.__extract_nfts(response)
+
+            offset += 40
+
+            params = self.__get_params(offset)
+
+            url = self.__create_url_with_params(params)
+
+            self.__save()
+
+if __name__ == "__main__":
+    app = MagicEdenScraper()
+    app.run()
